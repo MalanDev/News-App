@@ -1,4 +1,4 @@
-package lk.crud.eyepaxnews.ui.favourite
+package lk.crud.eyepaxnews.presentation.ui.favourite
 
 import android.os.Bundle
 import android.view.LayoutInflater
