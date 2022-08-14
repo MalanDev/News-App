@@ -3,4 +3,6 @@
     <string name="title_home">Home</string>
     <string name="title_favourite">Favourite</string>
     <string name="title_profile">Profile</string>
+    <string name="text_search_hint">Dogecoin to the Moon...</string>
+    <string name="search_icon">Search Icon</string>
 </resources>

@@ -40,4 +40,3 @@ Connect an Android device to your development machine.
 ### Gradle
 
 * Install the debug APK on your device `./gradlew installDebug`
-* Start the APK: `<path to Android SDK>/platform-tools/adb -d shell am start io.keen.client.android.example/io.keen.client.android.example.MyActivity`
